@@ -45,122 +45,126 @@ ggthemr('fresh') #select one ggplot theme to be used
 The main objective of the literature survey was to characterize key meta-analytic practices currently used in papers published in in the field of experimental animal studies in neurology. We aimed for a representative sample of 50-100 meta-analytic papers on non-human animals from the most relevant journals in the field.  
 
 ## Literature search  
-We first identified top ranked 10% journals in "Neuroscience" Scopus subject area. This way, we collated a list of 115 journals alongside with their ISSN:   
-1. Nature Neuroscience ISSN 1546-1726,   
-2. Nature Reviews Neuroscience ISSN 1471-0048,  
-3. Nature Reviews Neurology ISSN 1759-4766,  
-4. Progress in Retinal and Eye Research ISSN 1873-1635,  
-5. Trends in Cognitive Sciences ISSN 1879-307X,  
-6. Neuron ISSN 1097-4199,  
-7. The Lancet Psychiatry ISSN 2215-0374,  
-8. Annual Review of Neuroscience ISSN 1545-4126,  
-9. Acta Neuropathologica ISSN 1432-0533,  
-10. Alzheimer's and Dementia ISSN 1552-5279,  
-11. Molecular Psychiatry ISSN 1476-5578,  
-12. Sleep Medicine Reviews ISSN 1532-2955,  
-13. Biological Psychiatry ISSN 1873-2402,  
-14. Progress in Neurobiology ISSN 1873-5118,  
-15. Molecular Neurodegeneration ISSN 1750-1326,  
-16. Trends in Neurosciences ISSN 1878-108X,  
-17. Ageing Research Reviews ISSN 1568-1637,  
-18. EMBO Journal ISSN 1460-2075,  
-19. Annals of Neurology ISSN 1531-8249,  
-20. Neuroscience and Biobehavioral Reviews ISSN 1873-7528,  
-21. Frontiers in Neuroendocrinology ISSN 1095-6808,  
-22. Movement Disorders ISSN 1531-8257,  
-23. Nature Human Behaviour ISSN 2397-3374,  
-24. Cellular and Molecular Life Sciences ISSN 1420-9071,  
-25. Brain,  Behavior,  and Immunity ISSN 1090-2139,  
-26. Current Biology ISSN 1879-0445,  
-27. Journal of Abnormal Psychology ISSN 1939-843X,  
-28. Current Opinion in Neurobiology ISSN 1873-6882,  
-29. Neuropathology and Applied Neurobiology ISSN 1365-2990,  
-30. Epilepsia ISSN 1528-1167,  
-31. Journal of Cerebral Blood Flow and Metabolism ISSN 1559-7016,  
-32. PLoS Biology ISSN 1545-7885,  
-33. Neural Networks ISSN 1879-2782,  
-34. Translational Neurodegeneration ISSN 2047-9158,  
-35. Neuroscientist ISSN 1089-4098,  
-36. GLIA ISSN 1098-1136,  
-37. Cell Death and Disease ISSN 2041-4889,  
-38. eLife ISSN 2050-084X,  
-39. NeuroImage ISSN 1095-9572,  
-40. Current Neuropharmacology ISSN 1875-6190,  
-41. Chronic Stress ISSN 2470-5470,  
-42. npj Parkinson's Disease ISSN 2373-8057,  
-43. Journal of Neuroinflammation ISSN 1742-2094,  
-44. Brain Stimulation ISSN 1876-4754,  
-45. Molecular Neurobiology ISSN 1559-1182,  
-46. Neurocomputing ISSN 0925-2312,  
-47. Molecular Autism ISSN 2040-2392,  
-48. Multiple Sclerosis Journal ISSN 1477-0970,  
-49. Neural Computation ISSN 1530-888X,  
-50. Alzheimer's Research and Therapy ISSN 1758-9193,  
-51. Brain Pathology ISSN 1750-3639,  
-52. Annals of the New York Academy of Sciences ISSN 1749-6632,  
-53. Cerebral Cortex ISSN 1460-2199,  
-54. Neurobiology of Stress ISSN 2352-2895,  
-55. Current Topics in Behavioral Neurosciences ISSN 1866-3389,  
-56. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging ISSN 2451-9022,  
-57. Cognitive Computation ISSN 1866-9964,  
-58. Neurobiology of Disease ISSN 1095-953X,  
-59. Dialogues in Clinical Neuroscience ISSN 1958-5969,  
-60. Translational Psychiatry ISSN 2158-3188,  
-61. Current Neurology and Neuroscience Reports ISSN 1534-6293,  
-62. Human Brain Mapping ISSN 1097-0193,  
-63. Translational Stroke Research ISSN 8686-01X,  
-64. DMM Disease Models and Mechanisms ISSN 1754-8411,  
-65. Acta neuropathologica communications ISSN 2051-5960,  
-66. Journal of Pain ISSN 1528-8447,  
-67. Neurobiology of Aging ISSN 1558-1497,  
-68. Developmental Science ISSN 1467-7687,  
-69. Experimental Neurology ISSN 1090-2430,  
-70. Developmental Neurobiology ISSN 1932-846X,  
-71. Psychoneuroendocrinology ISSN 1873-3360,  
-72. IEEE Transactions on Neural Systems and Rehabilitation Engineering ISSN 1558-0210,  
-73. Journal of NeuroImmune Pharmacology ISSN 1557-1904,  
-74. Bipolar Disorders ISSN 1399-5618,  
-75. Developmental Medicine and Child Neurology ISSN 1469-8749,  
-76. Network Neuroscience ISSN 2472-1751,  
-77. British Journal of Ophthalmology ISSN 1468-2079,  
-78. Current Opinion in Behavioral Sciences ISSN 2352-1546,  
-79. PLoS Computational Biology ISSN 1553-7358,  
-80. Social Cognitive and Affective Neuroscience ISSN 1749-5016,  
-81. NeuroImage: Clinical ISSN 2213-1582,  
-82. Journal of Alzheimer's Disease ISSN 1875-8908,  
-83. Psychiatry and Clinical Neurosciences ISSN 1440-1819,  
-84. Wiley Interdisciplinary Reviews: Cognitive Science ISSN 1939-5086,  
-85. Neurobiology of Sleep and Circadian Rhythms ISSN 2451-9944,  
-86. Neurorehabilitation and Neural Repair ISSN 1545-9683,  
-87. Clinical Neurophysiology ISSN 1872-8952,  
-88. Investigative Ophthalmology and Visual Science ISSN 1552-5783,  
-89. Psychophysiology ISSN 1540-5958,  
-90. Journal of Experimental Psychology: General ISSN 1939-2222,  
-91. Journal of Neurodevelopmental Disorders ISSN 1866-1955,  
-92. Sleep Health ISSN 2352-7218,  
-93. Cognition ISSN 1873-7838,  
-94. Computational Intelligence and Neuroscience ISSN 1687-5273,  
-95. Journal of Experimental Psychology: Human Perception and Performance ISSN 1939-1277,  
-96. Neuromuscular Disorders ISSN 1873-2364,  
-97. Journal of Vestibular Research: Equilibrium and Orientation ISSN 1878-6464,  
-98. Brain and Language ISSN 1090-2155,  
-99. JARO - Journal of the Association for Research in Otolaryngology ISSN 1438-7573,   
-100. Topics in Cognitive Science ISSN 1756-8765,   
-101. Ophthalmic and Physiological Optics ISSN 1475-1313,   
-102. Behavioral Sleep Medicine ISSN 1540-2010,   
-103. Early Intervention in Psychiatry ISSN 1751-7893,   
-104. Current protocols in mouse biology ISSN 2161-2617,   
-105. Journal of Fluency Disorders ISSN 1873-801X,   
-106. Journal of Research on Adolescence ISSN 1532-7795,   
-107. International Journal of Behavioral Development ISSN 1464-0651,   
-108. Language, Cognition and Neuroscience ISSN 2327-3801,   
-109. Aphasiology ISSN 1464-5041,   
-110. Journal of Neurolinguistics ISSN 1873-8052,   
-111. Attention,  Perception,  and Psychophysics ISSN 1943-393X,   
-112. Journal of Language Evolution ISSN 2058-458X,   
-113. Phenomenology and the Cognitive Sciences ISSN 1568-7759,   
-114. Journal of Communication Disorders ISSN 1873-7994,   
-115. Mind, Culture, and Activity ISSN 1532-7884,   
+We first identified top ranked 10% journals in "Neuroscience" Scopus subject area. This way, we collated a list of 115 journals alongside with their ISSN: 
+
+#### Table S1  
+Nr | Journal name |  ISSN   
+---| -------------| -------------    
+1.  | Nature Neuroscience  |   1546-1726   
+2.  | Nature Reviews Neuroscience  | 1471-0048  
+3.  | Nature Reviews Neurology  |   1759-4766  
+4.  | Progress in Retinal and Eye Research  |   1873-1635  
+5.  | Trends in Cognitive Sciences  |  1879-307X  
+6.  | Neuron  | 1097-4199  
+7.  | The Lancet Psychiatry  | 2215-0374  
+8.  | Annual Review of Neuroscience  | 1545-4126  
+9.  | Acta Neuropathologica  | 1432-0533  
+10.  | Alzheimer's and Dementia  | 1552-5279  
+11.  | Molecular Psychiatry  | 1476-5578  
+12.  | Sleep Medicine Reviews  | 1532-2955  
+13.  | Biological Psychiatry  | 1873-2402  
+14.  | Progress in Neurobiology  | 1873-5118  
+15.  | Molecular Neurodegeneration  | 1750-1326  
+16.  | Trends in Neurosciences  | 1878-108X  
+17.  | Ageing Research Reviews  | 1568-1637  
+18.  | EMBO Journal  | 1460-2075  
+19.  | Annals of Neurology  | 1531-8249  
+20.  | Neuroscience and Biobehavioral Reviews  | 1873-7528  
+21.  | Frontiers in Neuroendocrinology  | 1095-6808  
+22.  | Movement Disorders  | 1531-8257  
+23.  | Nature Human Behaviour  | 2397-3374  
+24.  | Cellular and Molecular Life Sciences  | 1420-9071  
+25.  | Brain  Behavior  and Immunity  | 1090-2139  
+26.  | Current Biology  | 1879-0445  
+27.  | Journal of Abnormal Psychology  | 1939-843X  
+28.  | Current Opinion in Neurobiology  | 1873-6882  
+29.  | Neuropathology and Applied Neurobiology  | 1365-2990  
+30.  | Epilepsia  | 1528-1167  
+31.  | Journal of Cerebral Blood Flow and Metabolism  | 1559-7016  
+32.  | PLoS Biology  | 1545-7885  
+33.  | Neural Networks  | 1879-2782  
+34.  | Translational Neurodegeneration  | 2047-9158  
+35.  | Neuroscientist  | 1089-4098  
+36.  | GLIA  | 1098-1136  
+37.  | Cell Death and Disease  | 2041-4889  
+38.  | eLife  | 2050-084X  
+39.  | NeuroImage  | 1095-9572  
+40.  | Current Neuropharmacology  | 1875-6190  
+41.  | Chronic Stress  | 2470-5470  
+42.  | npj Parkinson's Disease  | 2373-8057  
+43.  | Journal of Neuroinflammation  | 1742-2094  
+44.  | Brain Stimulation  | 1876-4754  
+45.  | Molecular Neurobiology  | 1559-1182  
+46.  | Neurocomputing  | 0925-2312  
+47.  | Molecular Autism  | 2040-2392  
+48.  | Multiple Sclerosis Journal  | 1477-0970  
+49.  | Neural Computation  | 1530-888X  
+50.  | Alzheimer's Research and Therapy  | 1758-9193  
+51.  | Brain Pathology  | 1750-3639  
+52.  | Annals of the New York Academy of Sciences  | 1749-6632  
+53.  | Cerebral Cortex  | 1460-2199  
+54.  | Neurobiology of Stress  | 2352-2895  
+55.  | Current Topics in Behavioral Neurosciences  | 1866-3389  
+56.  | Biological Psychiatry: Cognitive Neuroscience and Neuroimaging  | 2451-9022  
+57.  | Cognitive Computation  | 1866-9964  
+58.  | Neurobiology of Disease  | 1095-953X  
+59.  | Dialogues in Clinical Neuroscience  | 1958-5969  
+60.  | Translational Psychiatry  | 2158-3188  
+61.  | Current Neurology and Neuroscience Reports  | 1534-6293  
+62.  | Human Brain Mapping  | 1097-0193  
+63.  | Translational Stroke Research  | 8686-01X  
+64.  | DMM Disease Models and Mechanisms  | 1754-8411  
+65.  | Acta neuropathologica communications  | 2051-5960  
+66.  | Journal of Pain  | 1528-8447  
+67.  | Neurobiology of Aging  | 1558-1497  
+68.  | Developmental Science  | 1467-7687  
+69.  | Experimental Neurology  | 1090-2430  
+70.  | Developmental Neurobiology  | 1932-846X  
+71.  | Psychoneuroendocrinology  | 1873-3360  
+72.  | IEEE Transactions on Neural Systems and Rehabilitation Engineering  | 1558-0210  
+73.  | Journal of NeuroImmune Pharmacology  | 1557-1904  
+74.  | Bipolar Disorders  | 1399-5618  
+75.  | Developmental Medicine and Child Neurology  | 1469-8749  
+76.  | Network Neuroscience  | 2472-1751  
+77.  | British Journal of Ophthalmology  | 1468-2079  
+78.  | Current Opinion in Behavioral Sciences  | 2352-1546  
+79.  | PLoS Computational Biology  | 1553-7358  
+80.  | Social Cognitive and Affective Neuroscience  | 1749-5016  
+81.  | NeuroImage: Clinical  | 2213-1582  
+82.  | Journal of Alzheimer's Disease  | 1875-8908  
+83.  | Psychiatry and Clinical Neurosciences  | 1440-1819  
+84.  | Wiley Interdisciplinary Reviews: Cognitive Science  | 1939-5086  
+85.  | Neurobiology of Sleep and Circadian Rhythms  | 2451-9944  
+86.  | Neurorehabilitation and Neural Repair  | 1545-9683  
+87.  | Clinical Neurophysiology  | 1872-8952  
+88.  | Investigative Ophthalmology and Visual Science  | 1552-5783  
+89.  | Psychophysiology  | 1540-5958  
+90.  | Journal of Experimental Psychology: General  | 1939-2222  
+91.  | Journal of Neurodevelopmental Disorders  | 1866-1955  
+92.  | Sleep Health  | 2352-7218  
+93.  | Cognition  | 1873-7838  
+94.  | Computational Intelligence and Neuroscience  | 1687-5273  
+95.  | Journal of Experimental Psychology: Human Perception and Performance  | 1939-1277  
+96.  | Neuromuscular Disorders  | 1873-2364  
+97.  | Journal of Vestibular Research: Equilibrium and Orientation  | 1878-6464  
+98.  | Brain and Language  | 1090-2155  
+99.  | JARO - Journal of the Association for Research in Otolaryngology  | 1438-7573   
+100.  | Topics in Cognitive Science  | 1756-8765   
+101.  | Ophthalmic and Physiological Optics  | 1475-1313   
+102.  | Behavioral Sleep Medicine  | 1540-2010   
+103.  | Early Intervention in Psychiatry  | 1751-7893   
+104.  | Current protocols in mouse biology  | 2161-2617   
+105.  | Journal of Fluency Disorders  | 1873-801X   
+106.  | Journal of Research on Adolescence  | 1532-7795   
+107.  | International Journal of Behavioral Development  | 1464-0651   
+108.  | Language, Cognition and Neuroscience  | 2327-3801   
+109.  | Aphasiology  | 1464-5041   
+110.  | Journal of Neurolinguistics  | 1873-8052   
+111.  | Attention  Perception  and Psychophysics  | 1943-393X   
+112.  | Journal of Language Evolution  | 2058-458X   
+113.  | Phenomenology and the Cognitive Sciences  | 1568-7759   
+114.  | Journal of Communication Disorders  | 1873-7994   
+115.  | Mind, Culture, and Activity  | 1532-7884   
 
 We then used Journal ISSN numbers to create a PubMed search string for the above 115 journals: 
 
@@ -189,7 +193,7 @@ Two researchers (YY, ML) independently performed full-text screening was perform
 
 The first part of the full-text screening and data extraction form was used to collect bibliographic information about each screened study, specifically: paper's title,	first author's family name,	publication journal name,	publication year, and article doi. The multiple-choice questions in the second part of the form are presented in **Table S1** below.:  
 
-#### Table S1  
+#### Table S2  
 Question | Answer options  
 ---------| --------------------------  
 Q1 Is this formal meta-analysis (weighted) of non-human animal studies? | Formal MA; Bioinformatic MA (e.g. transcriptional and genome-wide association studies); Image MA (e.g. fMRI); Self-claiming as containing a meta-analysis (or meta-regression) but actually no formal meta-analysis/regression was conducted; unclear/other (add comment)  
@@ -211,9 +215,7 @@ Each question was followed by a dedicated comment field used to record any addit
 
 
 ## Screening results  
-Out of the 78 full-text articles screened, 16 were deemed ineligible for data extraction (**Table S2**). The final dataset (after filtering out ineligible papers) comprises 62 formnal meta-analyses of non-human animal neurobiology-related questions. The data extraction spreadsheet is saved as *MA_Neurobiology_Survey_final_clean.xlsx*.  Below, we present a summary of the extracted data.   
-
-Results presented below are based on data extraction from 50 papers (pilot3) completed by ML and EM on 12 may 2021: 46 included, 4 excluded.   
+Out of the 78 full-text articles screened, 16 were deemed ineligible for data extraction (**Table S2**). The final dataset (after filtering out ineligible papers) comprises 62 formnal meta-analyses of non-human animal neurobiology-related questions. The data extraction spreadsheet is saved as *MA_Neurobiology_Survey_final_clean.xlsx*.  Below, we present a summary of the extracted data.
 
 ```{r load data}
 rawdata <- read_excel(here("data", "MA_Neurobiology_Survey_final_clean.xlsx"), sheet = 1)
@@ -224,7 +226,7 @@ rawdata <- read_excel(here("data", "MA_Neurobiology_Survey_final_clean.xlsx"), s
 
 ### Summary tables 
 
-#### Table S2
+#### Table S4
 List of articles excluded at full-text screening, with reasons for exclusion.     
 ```{r data table excluded articles}
 #table(rawdata$"exclusion_reason") #table of exclusion resons for the 4 studies
