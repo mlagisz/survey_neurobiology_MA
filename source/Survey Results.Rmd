@@ -362,8 +362,7 @@ Statistical_models_sep <- separate_rows(rawdata_incl, Statistical_models, sep = 
 Statistical_models_sep$Statistical_models <- as.factor(Statistical_models_sep$Statistical_models)
 levels(Statistical_models_sep$Statistical_models) <- c("fixed-effect",
                                                        "meta-regression", 
-                                                       "multilevel", 
-                                                       "multivariate", 
+                                                       "multilevel",  
                                                        "random-effects", 
                                                        "unclear/other" )
 
