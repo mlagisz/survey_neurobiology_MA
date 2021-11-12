@@ -329,7 +329,6 @@ Effect_size_sep <- separate_rows(rawdata_incl, Effect_size, sep = ";") #split ro
 Effect_size_sep$Effect_size <- as.factor(Effect_size_sep$Effect_size)
 levels(Effect_size_sep$Effect_size) <- c("2 by 2 binary data (RR, OR)",
                                          "correlation (r or Zr)",
-                                         "raw mean",
                                          "Response Ratio (lnRR)",
                                          "SMD (d, g, etc.)",
                                          "unclear/other",
